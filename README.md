@@ -1,4 +1,4 @@
-# ShopGrok technical
+# Technical 
 
 ## Commands to setup environment
 

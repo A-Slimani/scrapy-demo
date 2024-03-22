@@ -8,7 +8,7 @@ html = """
 
 pattern = r"\d+"
 
-match = re.findall(pattern, html)
+match = re.findall(pattern, html)[-1]
 
 if match:
-    print(f"Total Number of Proudcts: {match[-1]}")
+    print(f"Total Number of Proudcts: {match}")

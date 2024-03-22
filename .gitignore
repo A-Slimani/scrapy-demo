@@ -1,2 +1,3 @@
 .venv
- 
+scrapy-demo/demo/__pycache__
+scrapy-demo/demo/spiders/__pycache__

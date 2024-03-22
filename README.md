@@ -12,8 +12,9 @@ Activate virtual env
 ```
 Install libraries
 ```shell
-pip install scrapy==2.4 shub scrapy-crawlera google-cloud-storage scrapy sessions
+pip install -r requirements.txt
 ```
+*NOTE: Had issues with running scrapy v2.4 with some library dependency issues ended up using v2.11. Hopefully this is stil sufficient*
 
 ## Running scrapy
 Commands for running and saving results for both surfboardempire and tackleworld crawlers

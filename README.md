@@ -6,7 +6,7 @@ Create virtual env
 ```shell
 python -m venv .venv
 ```
-Activate virtual env
+Activate virtual env *select the one in the `.venv/bin/` based on the shell you are using*
 ```shell
 . .venv/bin/activate.fish
 ```
